@@ -50,8 +50,6 @@
   </div>
 </div>
 
-
-<!-- remove comments and make the file extension to .php --
 <?php     //start php tag
 //include connect.php page for database connection
 Include('connect.php');
@@ -83,7 +81,6 @@ if (isset($_REQUEST['Submit'])) //here give the name of your button on which you
 	}
 }	
 ?>
--->
 
 
 </body>
